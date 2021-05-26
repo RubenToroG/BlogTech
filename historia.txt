@@ -1,8 +1,8 @@
 Esta es un historia de prueba para el curso profesional de 
 Git y Github en Platzi
 
-Mi nombre es Ruben Toro
-Naci en Colombia hace 33 años
+Mi nombre es Ruben Dario Toro Gutierrez
+Naci en Colombia hace 33 años, en un pueblo llamado Naranjal
 
 Parece inteligente, y depronto si, pero poco dedicado, solo cuando quiere
 
