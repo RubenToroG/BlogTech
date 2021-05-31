@@ -47,3 +47,10 @@ body{
     background: white;
     padding: 1em;
 }
+
+#footer
+{
+    background: cadetblue;
+    color: white;
+    text-align: center;
+}
